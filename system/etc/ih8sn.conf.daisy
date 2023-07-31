@@ -1,5 +1,5 @@
-BUILD_FINGERPRINT=Xiaomi/dipper/dipper:8.1.0/OPM1.171019.011/V9.5.5.0.OEAMIFA:user/release-keys
-BUILD_DESCRIPTION=dipper-user 8.1.0 OPM1.171019.011 V9.5.5.0.OEAMIFA release-keys
+BUILD_FINGERPRINT=google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys
+BUILD_DESCRIPTION=walleye-user 8.1.0 OPM1.171019.011 4448085 release-keys
 BUILD_TAGS=release-keys
 BUILD_TYPE=user
 DEBUGGABLE=0
